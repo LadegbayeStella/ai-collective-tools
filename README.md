@@ -121,6 +121,9 @@ Use these hashtags in search to filter out the tools
 - [Audiogen](https://www.audiogen.co/) - Elevate Your Creations with AI-Generated Sounds `#freemium`
 - [Krisp](https://krisp.ai) - Krisp's AI removes background noise & echo from meetings `#freemium`
 - [VideoDubber](https://videodubber.ai) - Offers free video translation, dubbing, voice cloning, and text-to-speech services. `#freemium`
+- [Audacity](https://www.audacityteam.org/): A free, open-source, cross-platform audio software for multi-track editing and recording.`free`
+
+These resources cover a range of options for audio editing and production, from free and open-source tools to premium software used by professionals. You can explore these options based on your specific needs and budget.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -142,6 +145,7 @@ Use these hashtags in search to filter out the tools
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
 - [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
 - [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
+- [Mira](https://mira.ai/) - Mira is an AI chatbot designed to assist with everyday tasks and answer questions. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
